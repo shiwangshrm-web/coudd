@@ -10,5 +10,9 @@ Happy birthday to me
 
  happy birthday Sachi
 
+<<<<<<< HEAD
  shade redd sachi
+=======
+ hieeeeeee
+>>>>>>> 0111bf732ef307ddbaa48e2141c0c357a5f89f70
  
