@@ -51,5 +51,21 @@ my winandoinawiodnoi
 
 
 sachi cannot edit
+<<<<<<< HEAD
+
+
+mega evolve sachi
+=======
 >>>>>>> 068b1e0e3662827d8a9eab13d3b9fbefdadb56fe
 hsdiahiha
+>>>>>>> b5a466b417e86267a047cb0a21c1ec8e7c16be1f
+
+
+<<<<<<< HEAD
+nice to meet you MR.
+=======
+
+>>>>>>> fb3a65434d7ef600f613eeb64242d67b82ca65f6
+ 
+ hi gadyaaa
+ 
