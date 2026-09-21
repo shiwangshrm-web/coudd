@@ -30,8 +30,5 @@ ka ho kaisan baa
 
  jane na tu tujhme me kya dekht hu
 
-
-
-
-
 hello sachieiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+
