@@ -35,4 +35,11 @@ hello sachieiiiiiiiiiiiiiiiiiiiiiiiiiiiii
 pppppppp test
 
 
+<<<<<<< HEAD
 testig shiw
+=======
+
+
+hello infinite
+>>>>>>> 81dfb6ce81ab3751c7577e790e9cd880c6485f80
+sitaram charit ati pawan
