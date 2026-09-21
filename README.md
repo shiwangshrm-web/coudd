@@ -35,15 +35,30 @@ hello sachieiiiiiiiiiiiiiiiiiiiiiiiiiiiii
 pppppppp test
 
 
+<<<<<<< HEAD
+testig shiw
+=======
 
 
 hello infinite
+<<<<<<< HEAD
+>>>>>>> 81dfb6ce81ab3751c7577e790e9cd880c6485f80
+sitaram charit ati pawan
+=======
 
 my winandoinawiodnoi 
 
 
 
 sachi cannot edit
+<<<<<<< HEAD
 
 
 mega evolve sachi
+=======
+>>>>>>> 068b1e0e3662827d8a9eab13d3b9fbefdadb56fe
+hsdiahiha
+>>>>>>> b5a466b417e86267a047cb0a21c1ec8e7c16be1f
+
+
+
