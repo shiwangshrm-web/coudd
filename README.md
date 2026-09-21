@@ -44,3 +44,6 @@ my winandoinawiodnoi
 
 
 sachi cannot edit
+
+
+mega evolve sachi
